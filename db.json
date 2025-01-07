@@ -2,34 +2,66 @@
   "project": [
     {
       "id": 1,
+      "title": "Viatura Policial Interativa com Luzes e Animações",
       "img": "/gifs/viatura-da-policia.gif",
-      "alt": "Projeto de carro policial",
-      "title": "Carro Policial",
-      "description": "Biblioteca JavaScript para construir interfaces de usuário dinâmicas.",
+      "alt": "Imagem do Projeto carro policial",
+      "description": "Descrição detalhada sobre o projeto, incluindo o propósito e o impacto.",
+      "technicalDetails": [
+        "HTML, CSS e JavaScript para a estrutura e interatividade.",
+        "React e Next.js para gerenciamento de componentes.",
+        "Tailwind CSS para estilização."
+      ],
+      "challenges": "O maior desafio foi implementar animações responsivas e assegurar compatibilidade entre diferentes dispositivos. Foi solucionado com bibliotecas otimizadas e testes constantes.",
+      "githubLink": "https://github.com/dennyberrios/Viatura-da-Policia",
+      "projectLink": "https://viatura-da-policia.vercel.app/",
       "link": "/1"
     },
     {
       "id": 2,
+      "title": "Interação Animada: Poste e Boneco com Luz e Sombras",
       "img": "/gifs/poste.gif",
-      "alt": "Projecto de poste animado",
-      "title": "Poste Eletrico",
-      "description": "Biblioteca JavaScript para construir interfaces de usuário dinâmicas.",
+      "alt": "Imagem do Projeto Luz e Emoção",
+      "description": "'Luz e Emoção' é um projeto interativo que utiliza um interruptor para controlar a luz de um poste. Quando a luz é acesa, um boneco abaixo do poste levanta os braços e exibe um rosto alegre. Quando a luz é apagada, o boneco abaixa os braços e fica com o rosto triste. Criado como uma brincadeira, o projeto explora animações, interatividade e efeitos de luz e sombra, proporcionando uma experiência divertida enquanto demonstra conceitos de animação e reflexos no ambiente.",
+      "technicalDetails": [
+        "HTML: Responsável pela criação da estrutura da página, incluindo o poste, o boneco e o interruptor.",
+        "CSS: Usado para estilizar os elementos, incluindo as animações de transição de luz e movimento do boneco, além de efeitos de sombra e reflexos.",
+        "JavaScript: Controla a interação do usuário com o interruptor, alternando o estado da luz e gerenciando as animações do boneco (movimento dos braços e expressão facial)"
+      ],
+      "challenges": "O projeto foi desenvolvido com HTML, CSS e JavaScript para criar uma interação dinâmica entre um poste e um boneco. Ao ativar o interruptor, a luz do poste acende e o boneco se alegra, levantando os braços e exibindo um rosto feliz. Quando a luz é apagada, o boneco abaixa os braços e seu rosto fica triste. O principal desafio foi implementar animações fluidas para a transição entre os estados 'ligado' e 'desligado' da luz e do boneco, criando sombras e reflexos realistas com CSS. O equilíbrio entre interatividade e design foi essencial para criar uma experiência intuitiva e agradável para o usuário.",
+      "githubLink": "https://github.com/dennyberrios/Poste",
+      "projectLink": "https://poste.vercel.app/",
       "link": "/2"
     },
     {
       "id": 3,
+      "title": "Plano de Estudos: Aprendizado Interativo de Inglês com Estímulo ao Estudo Autônomo",
       "img": "/img/plano-de-estudos.png",
-      "alt": "projeto de Plano de Estudos",
-      "title": "Plano de Estudos",
-      "description": "Biblioteca JavaScript para construir interfaces de usuário dinâmicas.",
+      "alt": "Imagem do Projeto Plano de Estudos",
+      "description": "Descrição detalhada sobre o projeto, incluindo o propósito e o impacto.",
+      "technicalDetails": [
+        "HTML, CSS e JavaScript para a estrutura e interatividade.",
+        "React e Next.js para gerenciamento de componentes.",
+        "Tailwind CSS para estilização."
+      ],
+      "challenges": "O maior desafio foi implementar animações responsivas e assegurar compatibilidade entre diferentes dispositivos. Foi solucionado com bibliotecas otimizadas e testes constantes.",
+      "githubLink": "https://github.com/dennyberrios/Plano-de-Estudos",
+      "projectLink": "https://plano-de-estudos.vercel.app/",
       "link": "/3"
     },
     {
       "id": 4,
+      "title": "Comandos do Git: Guia Interativo para Aprender e Relembrar os Comandos do Git",
       "img": "/img/comandos-do-git.png",
-      "alt": "projeto de Comandos do git.",
-      "title": "Comandos do git.",
-      "description": "Biblioteca JavaScript para construir interfaces de usuário dinâmicas.",
+      "alt": "Imagem do Projeto Comandos do Git",
+      "description": "Descrição detalhada sobre o projeto, incluindo o propósito e o impacto.",
+      "technicalDetails": [
+        "HTML, CSS e JavaScript para a estrutura e interatividade.",
+        "React e Next.js para gerenciamento de componentes.",
+        "Tailwind CSS para estilização."
+      ],
+      "challenges": "O maior desafio foi implementar animações responsivas e assegurar compatibilidade entre diferentes dispositivos. Foi solucionado com bibliotecas otimizadas e testes constantes.",
+      "githubLink": "https://github.com/dennyberrios/Comandos-de-git",
+      "projectLink": "https://comandos-de-git.vercel.app/",
       "link": "/4"
     }
   ]
